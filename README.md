@@ -5,10 +5,6 @@
 </div>
 <em><h5 align="center">(Programming Language - Python 3)</h5></em>
 <p align="center">
-<a href="#"><img alt="Discord" src="https://discord.gg/novapattis"></a>
-<a href="#"><img alt="Repo stars" src="https://img.shields.io/github/stars/MatrixTM/OutlookGen?style=for-the-badge&color=yellow"></a>
-<a href="#"><img alt="OutlookGen License" src="https://img.shields.io/github/license/MatrixTM/OutlookGen?color=orange&style=for-the-badge"></a>
-<a href="https://github.com/MatrixTM/OutlookGen/issues"><img alt="issues" src="https://img.shields.io/github/issues/MatrixTM/OutlookGen?color=purple&style=for-the-badge"></a>
 <p align="center"><img src="https://views.whatilearened.today/views/github/MatrixTM/OutlookGen.svg" width="80px" height="28px" alt="View"></p>
 
 ---
