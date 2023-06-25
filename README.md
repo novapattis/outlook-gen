@@ -13,23 +13,23 @@
 
 ## 📝 Document
 
-<br>
+
 ### Before Run Install Python
 
 
 [Download](https://www.python.org)
-<br>
+
 <p align="center">
 **Using The Program**
-<br>
-<br>
+
+
 ##### Windows
 
 [//]: # (###### You Can Come Our Discord And Get Cheap Support [Discord]discord.gg/novapattis)
 
 - Open Kacak.bat
 
-<br>
+
 
 ##### Another Systems
 
