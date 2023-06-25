@@ -1,7 +1,7 @@
 # outlook-gen
 
 
-#How To Use?
+How To Use?
 
 Windows:
 Only Click Kacak.bat
