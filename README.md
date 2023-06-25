@@ -9,15 +9,13 @@
 
 ---
 
-<p align="center"><img src="02.png" width="570" alt="outlook"></p>
+
 
 ## 📝 Document
 
+<br>
+### Before Run Install Python
 
-### Before Run
-
-
-**Install Python**
 
 [Download](https://www.python.org)
 <br>
