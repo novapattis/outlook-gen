@@ -14,14 +14,13 @@
 ## 📝 Document
 
 ### Use Http proxies
-### Before Run [Check Here](#config_doc)
+### Before Run
 
 
-**Install Requirements**
+**Install Python**
 
-```
-[Download](#https://www.python.org)
-```
+[Download](https://www.python.org)
+
 
 **Install Chrome Driver**
 
