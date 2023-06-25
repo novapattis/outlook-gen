@@ -20,7 +20,7 @@
 **Install Requirements**
 
 ```
-pip3 install -r requirements.txt
+[Download](#https://www.python.org)
 ```
 
 **Install Chrome Driver**
