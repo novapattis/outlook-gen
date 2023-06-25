@@ -5,7 +5,7 @@
 </div>
 <em><h5 align="center">(Programming Language - Python 3)</h5></em>
 <p align="center">
-<p align="center"><img src="https://views.whatilearened.today/views/github/MatrixTM/OutlookGen.svg" width="80px" height="28px" alt="View"></p>
+
 
 ---
 
