@@ -14,12 +14,12 @@
 ## 📝 Document
 
 
-### Before Run Install Python
+### Before Run, Install Python
 
 
 [Download](https://www.python.org)
 
-<p align="center">
+---
 **Using The Program**
 
 
